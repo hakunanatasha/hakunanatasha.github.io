@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics | Natasha Seelam</title>
+    <link>/tag/physics/</link>
+      <atom:link href="/tag/physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Physics</title>
+      <link>/tag/physics/</link>
+    </image>
+    
+    <item>
+      <title>Capturing the free-energy of protein-facilitated reactivity</title>
+      <link>/research/umbrella-sampling/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/research/umbrella-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics in enzyme catalysis</title>
+      <link>/research/path-sampling/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/research/path-sampling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
