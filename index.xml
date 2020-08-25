@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Electronic underpinnings of protein mechanisms</title>
+      <title>Electronic underpinnings of protein catalysis</title>
       <link>/research/kari-interpretability/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/research/kari-interpretability/</guid>
@@ -38,9 +38,9 @@
     
     <item>
       <title>Learning to count</title>
-      <link>/projects/counting-rnn/</link>
+      <link>/extra/counting-rnn/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/projects/counting-rnn/</guid>
+      <guid>/extra/counting-rnn/</guid>
       <description></description>
     </item>
     
